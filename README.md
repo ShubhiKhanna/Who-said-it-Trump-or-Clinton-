@@ -14,9 +14,9 @@ To do so, we're using the Multinomial Naive Bayes Classifier. You can read more 
 |             |precision|recall | f1-score |  support |
 | :---------: |:---------:| :---------:| :---------:| :---------:|
 
-|Hillary| 0.92 | 0.93 | 0.92| 521 |
-|Trump| 0.94 | 0.93 | 0.94 | 624 |
+| Hillary | 0.92 | 0.93 | 0.92| 521 |
+| Trump | 0.94 | 0.93 | 0.94 | 624 |
 
-|accuracy||| 0.93 | 1145 |
+| accuracy | | | 0.93 | 1145 |
 |macro avg | 0.93 | 0.93 | 0.93 | 1145 |
 |weighted avg| 0.93 | 0.93 | 0.93 | 1145 |
