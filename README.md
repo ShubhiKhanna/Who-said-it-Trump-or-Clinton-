@@ -10,6 +10,8 @@ Our goal is to develop a model which determines the author of a given tweet.
 
 To do so, we're using the Multinomial Naive Bayes Classifier. You can read more about it [here](https://www.mygreatlearning.com/blog/multinomial-naive-bayes-explained/).
 
+Classification Report:
+
 |              | Precision | Recall | f1-score | Support |
 |--------------|-----------|--------|----------|---------|
 | Hillary      | 0.92      | 0.93   | 0.92     | 521     |
